@@ -1,0 +1,6 @@
+name: LinksFlyControl
+version: '${project.version}'
+main: linksflycontrol.linksflycontrol.LinksFlyControl
+api-version: 1.19
+authors: [ Link_play ]
+description: LinksFlyControl
